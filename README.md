@@ -1,8 +1,15 @@
+
 # ☕ Java do Zero
 
 Este repositório documenta minha jornada de aprendizado em Java, desde os primeiros programas até conceitos mais avançados.
 
-Meu objetivo é construir uma base sólida em programação, registrando cada etapa da evolução de forma organizada e transparente.
+---
+
+## 🚀 Objetivo Profissional
+
+Estou construindo uma base sólida em desenvolvimento de software para conquistar minha primeira oportunidade como Desenvolvedor Java.
+
+Sei que ainda tenho muito a aprender, e justamente por isso registro minha evolução de forma transparente, valorizando o aprendizado contínuo e as boas práticas de programação.
 
 ---
 
@@ -11,6 +18,22 @@ Meu objetivo é construir uma base sólida em programação, registrando cada et
 Aprender Java de forma consistente, compreendendo os fundamentos antes de avançar para conceitos mais complexos.
 
 Este projeto foi criado para acompanhar minha evolução como futuro desenvolvedor de software.
+
+
+---
+## 📚 Progresso dos Estudos
+
+| Aula | Tema | Status |
+|------|------|:------:|
+| 01 | Primeiro Programa | ✅ |
+| 02 | Variáveis | ✅ |
+| 03 | Scanner | ✅ |
+| 04 | If / Else | ✅ |
+| 05 | While | ⏳ |
+| 06 | For | ⏳ |
+| 07 | Métodos | ⏳ |
+| 08 | Vetores | ⏳ |
+| 09 | Programação Orientada a Objetos | ⏳ |
 
 ---
 
