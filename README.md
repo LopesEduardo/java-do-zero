@@ -1,7 +1,15 @@
+☕ JAVA DO ZERO
 
+Do primeiro System.out.println()
+até projetos completos.
 # ☕ Java do Zero
 
-Este repositório documenta minha jornada de aprendizado em Java, desde os primeiros programas até conceitos mais avançados.
+> Meu primeiro projeto público no GitHub.
+>
+> Este repositório registra minha evolução no aprendizado de Java desde os fundamentos da linguagem até projetos mais completos.
+>
+> Cada commit representa um novo passo da minha jornada.
+
 
 ---
 
