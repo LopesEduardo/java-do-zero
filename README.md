@@ -17,7 +17,7 @@ até projetos completos.
 
 ## 🚀 Objetivo Profissional
 
-Estou construindo uma base sólida em desenvolvimento de software para conquistar minha primeira oportunidade como Desenvolvedor Java.
+"Acredito que grandes desenvolvedores não nascem prontos. Eles evoluem através da prática diária, da curiosidade e da disciplina. Este repositório registra exatamente essa evolução."
 
 Sei que ainda tenho muito a aprender, e justamente por isso registro minha evolução de forma transparente, valorizando o aprendizado contínuo e as boas práticas de programação.
 
