@@ -1,5 +1,15 @@
 ☕ JAVA DO ZERO
 
+Java 17
+
+Git
+
+GitHub
+
+Linux
+
+IntelliJ
+
 Do primeiro System.out.println()
 até projetos completos.
 # ☕ Java do Zero
