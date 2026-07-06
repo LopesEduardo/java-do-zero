@@ -143,3 +143,5 @@ Em busca da primeira oportunidade como Desenvolvedor Java.
 
 
 Email: lopes.eduardodealmeida@gmail.com
+
+Linkedin: www.linkedin.com/in/eduardo-lopes-4aa0b9160
