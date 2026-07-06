@@ -92,6 +92,14 @@ Desafio:
 - Verificação de aprovação por nota.
 
 ---
+### O que aprendi na Aula 05
+
+- Utilizar o laço `while`.
+- Criar contadores.
+- Entender a diferença entre `contador++` e `++contador`.
+- Controlar a condição de parada de um laço.
+- Desenvolver lógica de repetição.
+---
 
 ## 🛠 Tecnologias
 
@@ -105,7 +113,7 @@ Desafio:
 
 ## 🎯 Próximos passos
 
-- Estruturas de repetição (`while` e `for`)
+- Estruturas de repetição (`for`)
 - Métodos
 - Vetores
 - Programação Orientada a Objetos (POO)
