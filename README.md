@@ -40,7 +40,7 @@ Este projeto foi criado para acompanhar minha evolução como futuro desenvolved
 | 03 | Scanner | ✅ |
 | 04 | If / Else | ✅ |
 | 05 | While | ✅ |
-| 06 | For | ⏳ |
+| 06 | For | ✅ |
 | 07 | Métodos | ⏳ |
 | 08 | Vetores | ⏳ |
 | 09 | Programação Orientada a Objetos | ⏳ |
